@@ -17,7 +17,7 @@ Website dự án: https://networksecurity-s9.42web.io/index.html
 
 ## Yêu cầu
 
-- Python **3.9** trở lên (chỉ dùng thư viện chuẩn, không cần `pip install`).
+- Python **3.8** trở lên (chỉ dùng thư viện chuẩn, không cần `pip install`).
 - Một tài khoản Gmail đã bật **Xác minh 2 bước** và tạo **App Password**.
 
 ## Cấu trúc thư mục
