@@ -1,0 +1,434 @@
+2026-10-21 13:08:02 | INFO    | ==============================================================================
+2026-10-21 13:08:02 | INFO    |                      CHE DO 1: GUI EMAIL CO BAN (Muc 4.2)                     
+2026-10-21 13:08:02 | INFO    | ==============================================================================
+2026-10-21 13:08:02 | ERROR   | Loi cau hinh/du lieu: Thieu bien moi truong SENDER_EMAIL hoac SENDER_APP_PASSWORD. Hay thiet lap truoc khi chay (xem HUONG_DAN_TV7.md).
+2026-10-21 13:08:31 | INFO    | Da doc 4 lien he tu contacts.csv
+2026-10-21 13:08:37 | INFO    | ==============================================================================
+2026-10-21 13:08:37 | INFO    |                  CHE DO 3: XEM THU (DRY-RUN, KHONG GUI THAT)                  
+2026-10-21 13:08:37 | INFO    | ==============================================================================
+2026-10-21 13:08:37 | INFO    | Nguoi gui     : giamando09@gmail.com
+2026-10-21 13:08:37 | INFO    | So nguoi nhan : 4
+2026-10-21 13:08:37 | INFO    | Dinh kem      : Tom_Tat_Du_An_An_Ninh_Mang.pdf
+2026-10-21 13:08:37 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 13:08:37 | SUCCESS | [1/4] sv.nhomtruong@gmail.com | Nguyễn Văn An | Nhóm trưởng | Trang thai: THÀNH CÔNG (xem thu -> 01_sv.nhomtruong@gmail.com.eml)
+2026-10-21 13:08:37 | SUCCESS | [2/4] sv.kiemthu@gmail.com | Trần Thị Bình | Thành viên kiểm thử | Trang thai: THÀNH CÔNG (xem thu -> 02_sv.kiemthu@gmail.com.eml)
+2026-10-21 13:08:37 | SUCCESS | [3/4] sv.thietke@gmail.com | Lê Minh Châu | Thành viên thiết kế web | Trang thai: THÀNH CÔNG (xem thu -> 03_sv.thietke@gmail.com.eml)
+2026-10-21 13:08:37 | SUCCESS | [4/4] giangvien.huongdan@gmail.com | Phạm Quốc Dũng | Giảng viên hướng dẫn | Trang thai: THÀNH CÔNG (xem thu -> 04_giangvien.huongdan@gmail.com.eml)
+2026-10-21 13:08:37 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 13:08:37 | INFO    | TONG KET: Tong 4 | THÀNH CÔNG: 4 | THẤT BẠI: 0
+2026-10-21 13:08:37 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-21 13:08:37 | INFO    | File xem thu luu tai thu muc: email_preview
+2026-10-21 13:16:37 | INFO    | ==============================================================================
+2026-10-21 13:16:37 | INFO    |                      CHE DO 1: GUI EMAIL CO BAN (Muc 4.2)                     
+2026-10-21 13:16:37 | INFO    | ==============================================================================
+2026-10-21 13:16:37 | ERROR   | Loi cau hinh/du lieu: Thieu bien moi truong SENDER_EMAIL hoac SENDER_APP_PASSWORD. Hay thiet lap truoc khi chay (xem HUONG_DAN_TV7.md).
+2026-10-21 13:19:16 | INFO    | ==============================================================================
+2026-10-21 13:19:16 | INFO    |                      CHE DO 1: GUI EMAIL CO BAN (Muc 4.2)                     
+2026-10-21 13:19:16 | INFO    | ==============================================================================
+2026-10-21 13:19:16 | INFO    | Dang ket noi smtp.gmail.com:587 (STARTTLS) ...
+2026-10-21 13:19:20 | SUCCESS | Nguoi nhan: gmpty210905@gmail.com | Trang thai: THÀNH CÔNG
+2026-10-21 16:26:10 | INFO    | Da doc 7 lien he tu contacts.csv
+2026-10-21 16:26:10 | INFO    | ==============================================================================
+2026-10-21 16:26:10 | INFO    |                  CHE DO 3: XEM THU (DRY-RUN, KHONG GUI THAT)                  
+2026-10-21 16:26:10 | INFO    | ==============================================================================
+2026-10-21 16:26:10 | INFO    | Nguoi gui     : demo.sender@gmail.com
+2026-10-21 16:26:10 | INFO    | So nguoi nhan : 7
+2026-10-21 16:26:10 | INFO    | Dinh kem      : (khong)
+2026-10-21 16:26:10 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 16:26:10 | SUCCESS | [1/7] khanhngoc.tv1@ueh.edu.vn | Nguyễn Phúc Khánh Ngọc | Trưởng nhóm (TV1) | Trang thai: THÀNH CÔNG (xem thu -> 01_khanhngoc.tv1@ueh.edu.vn.eml)
+2026-10-21 16:26:10 | SUCCESS | [2/7] thanhtai.tv2@ueh.edu.vn | Lê Thành Tài | Thành viên 2 | Trang thai: THÀNH CÔNG (xem thu -> 02_thanhtai.tv2@ueh.edu.vn.eml)
+2026-10-21 16:26:10 | SUCCESS | [3/7] thanhtuan.tv3@ueh.edu.vn | Nguyễn Thanh Tuấn | Thành viên 3 | Trang thai: THÀNH CÔNG (xem thu -> 03_thanhtuan.tv3@ueh.edu.vn.eml)
+2026-10-21 16:26:10 | SUCCESS | [4/7] thaonhu.tv4@ueh.edu.vn | Hoàng Ngọc Thảo Như | Thành viên 4 | Trang thai: THÀNH CÔNG (xem thu -> 04_thaonhu.tv4@ueh.edu.vn.eml)
+2026-10-21 16:26:10 | SUCCESS | [5/7] hoanglong.tv5@ueh.edu.vn | Thái Hoàng Long | Thành viên 5 | Trang thai: THÀNH CÔNG (xem thu -> 05_hoanglong.tv5@ueh.edu.vn.eml)
+2026-10-21 16:26:10 | SUCCESS | [6/7] boisan.tv6@ueh.edu.vn | Lâm Bội San | Thành viên 6 | Trang thai: THÀNH CÔNG (xem thu -> 06_boisan.tv6@ueh.edu.vn.eml)
+2026-10-21 16:26:10 | SUCCESS | [7/7] giaman.tv7@ueh.edu.vn | Đỗ Gia Mẫn | Thành viên 7 | Trang thai: THÀNH CÔNG (xem thu -> 07_giaman.tv7@ueh.edu.vn.eml)
+2026-10-21 16:26:10 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 16:26:10 | INFO    | TONG KET: Tong 7 | THÀNH CÔNG: 7 | THẤT BẠI: 0
+2026-10-21 16:26:10 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-21 16:26:10 | INFO    | File xem thu luu tai thu muc: email_preview
+2026-10-21 16:28:51 | INFO    | Da doc 3 lien he tu contacts_test.csv
+2026-10-21 16:28:51 | INFO    | ==============================================================================
+2026-10-21 16:28:51 | INFO    |                  CHE DO 3: XEM THU (DRY-RUN, KHONG GUI THAT)                  
+2026-10-21 16:28:51 | INFO    | ==============================================================================
+2026-10-21 16:28:51 | INFO    | Nguoi gui     : demo.sender@gmail.com
+2026-10-21 16:28:51 | INFO    | So nguoi nhan : 3
+2026-10-21 16:28:51 | INFO    | Dinh kem      : (khong)
+2026-10-21 16:28:51 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 16:28:51 | SUCCESS | [1/3] gmpty210905+tv1@gmail.com | Nguyễn Phúc Khánh Ngọc | Trưởng nhóm (TV1) | Trang thai: THÀNH CÔNG (xem thu -> 01_gmpty210905_tv1@gmail.com.eml)
+2026-10-21 16:28:51 | SUCCESS | [2/3] gmpty210905+tv2@gmail.com | Lê Thành Tài | Thành viên 2 | Trang thai: THÀNH CÔNG (xem thu -> 02_gmpty210905_tv2@gmail.com.eml)
+2026-10-21 16:28:51 | SUCCESS | [3/3] gmpty210905+tv7@gmail.com | Đỗ Gia Mẫn | Thành viên 7 | Trang thai: THÀNH CÔNG (xem thu -> 03_gmpty210905_tv7@gmail.com.eml)
+2026-10-21 16:28:51 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 16:28:51 | INFO    | TONG KET: Tong 3 | THÀNH CÔNG: 3 | THẤT BẠI: 0
+2026-10-21 16:28:51 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-21 16:28:51 | INFO    | File xem thu luu tai thu muc: email_preview
+2026-10-21 16:35:46 | ERROR   | Khong tim thay file danh sach lien he: contacts_test.cs
+2026-10-21 16:35:59 | INFO    | Da doc 3 lien he tu contacts_test.csv
+2026-10-21 16:36:57 | INFO    | ==============================================================================
+2026-10-21 16:36:57 | INFO    |                   CHE DO 2: GUI HANG LOAT NANG CAO (Muc 4.3)                  
+2026-10-21 16:36:57 | INFO    | ==============================================================================
+2026-10-21 16:36:57 | INFO    | Nguoi gui     : giamando09@gmail.com
+2026-10-21 16:36:57 | INFO    | So nguoi nhan : 3
+2026-10-21 16:36:57 | INFO    | Dinh kem      : Tom_Tat_Du_An_An_Ninh_Mang.pdf
+2026-10-21 16:36:57 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 16:37:01 | SUCCESS | [1/3] gmpty210905+tv1@gmail.com | Nguyễn Phúc Khánh Ngọc | Trưởng nhóm (TV1) | Trang thai: THÀNH CÔNG
+2026-10-21 16:37:05 | SUCCESS | [2/3] gmpty210905+tv2@gmail.com | Lê Thành Tài | Thành viên 2 | Trang thai: THÀNH CÔNG
+2026-10-21 16:37:08 | SUCCESS | [3/3] gmpty210905+tv7@gmail.com | Đỗ Gia Mẫn | Thành viên 7 | Trang thai: THÀNH CÔNG
+2026-10-21 16:37:08 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 16:37:08 | INFO    | TONG KET: Tong 3 | THÀNH CÔNG: 3 | THẤT BẠI: 0
+2026-10-21 16:37:08 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-21 16:46:58 | INFO    | Da doc 3 lien he tu contacts_test.csv
+2026-10-21 16:46:58 | INFO    | ==============================================================================
+2026-10-21 16:46:58 | INFO    |                  CHE DO 3: XEM THU (DRY-RUN, KHONG GUI THAT)                  
+2026-10-21 16:46:58 | INFO    | ==============================================================================
+2026-10-21 16:46:58 | INFO    | Nguoi gui     : demo.sender@gmail.com
+2026-10-21 16:46:58 | INFO    | So nguoi nhan : 3
+2026-10-21 16:46:58 | INFO    | Dinh kem      : Tom_Tat_Du_An_An_Ninh_Mang.pdf
+2026-10-21 16:46:58 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 16:46:58 | SUCCESS | [1/3] gmpty210905+tv1@gmail.com | Nguyễn Phúc Khánh Ngọc | Trưởng nhóm (TV1) | Trang thai: THÀNH CÔNG (xem thu -> 01_gmpty210905_tv1@gmail.com.eml)
+2026-10-21 16:46:58 | SUCCESS | [2/3] gmpty210905+tv2@gmail.com | Lê Thành Tài | Thành viên 2 | Trang thai: THÀNH CÔNG (xem thu -> 02_gmpty210905_tv2@gmail.com.eml)
+2026-10-21 16:46:58 | SUCCESS | [3/3] gmpty210905+tv7@gmail.com | Đỗ Gia Mẫn | Thành viên 7 | Trang thai: THÀNH CÔNG (xem thu -> 03_gmpty210905_tv7@gmail.com.eml)
+2026-10-21 16:46:58 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 16:46:58 | INFO    | TONG KET: Tong 3 | THÀNH CÔNG: 3 | THẤT BẠI: 0
+2026-10-21 16:46:58 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-21 16:46:58 | INFO    | File xem thu luu tai thu muc: email_preview
+2026-10-21 16:48:15 | INFO    | Da doc 3 lien he tu contacts_test.csv
+2026-10-21 16:48:15 | INFO    | ==============================================================================
+2026-10-21 16:48:15 | INFO    |                  CHE DO 3: XEM THU (DRY-RUN, KHONG GUI THAT)                  
+2026-10-21 16:48:15 | INFO    | ==============================================================================
+2026-10-21 16:48:15 | INFO    | Nguoi gui     : demo.sender@gmail.com
+2026-10-21 16:48:15 | INFO    | So nguoi nhan : 3
+2026-10-21 16:48:15 | INFO    | Dinh kem      : (khong)
+2026-10-21 16:48:15 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 16:48:15 | SUCCESS | [1/3] gmpty210905+tv1@gmail.com | Nguyễn Phúc Khánh Ngọc | Trưởng nhóm (TV1) | Trang thai: THÀNH CÔNG (xem thu -> 01_gmpty210905_tv1@gmail.com.eml)
+2026-10-21 16:48:15 | SUCCESS | [2/3] gmpty210905+tv2@gmail.com | Lê Thành Tài | Thành viên 2 | Trang thai: THÀNH CÔNG (xem thu -> 02_gmpty210905_tv2@gmail.com.eml)
+2026-10-21 16:48:15 | SUCCESS | [3/3] gmpty210905+tv7@gmail.com | Đỗ Gia Mẫn | Thành viên 7 | Trang thai: THÀNH CÔNG (xem thu -> 03_gmpty210905_tv7@gmail.com.eml)
+2026-10-21 16:48:15 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 16:48:15 | INFO    | TONG KET: Tong 3 | THÀNH CÔNG: 3 | THẤT BẠI: 0
+2026-10-21 16:48:15 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-21 16:48:15 | INFO    | File xem thu luu tai thu muc: email_preview
+2026-10-21 16:48:59 | INFO    | Da doc 3 lien he tu contacts_test.csv
+2026-10-21 16:49:02 | INFO    | ==============================================================================
+2026-10-21 16:49:02 | INFO    |                   CHE DO 2: GUI HANG LOAT NANG CAO (Muc 4.3)                  
+2026-10-21 16:49:02 | INFO    | ==============================================================================
+2026-10-21 16:49:02 | INFO    | Nguoi gui     : giamando09@gmail.com
+2026-10-21 16:49:02 | INFO    | So nguoi nhan : 3
+2026-10-21 16:49:02 | INFO    | Dinh kem      : Tom_Tat_Du_An_An_Ninh_Mang.pdf
+2026-10-21 16:49:02 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 16:49:07 | SUCCESS | [1/3] gmpty210905+tv1@gmail.com | Nguyễn Phúc Khánh Ngọc | Trưởng nhóm (TV1) | Trang thai: THÀNH CÔNG
+2026-10-21 16:49:10 | SUCCESS | [2/3] gmpty210905+tv2@gmail.com | Lê Thành Tài | Thành viên 2 | Trang thai: THÀNH CÔNG
+2026-10-21 16:49:15 | SUCCESS | [3/3] gmpty210905+tv7@gmail.com | Đỗ Gia Mẫn | Thành viên 7 | Trang thai: THÀNH CÔNG
+2026-10-21 16:49:15 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 16:49:15 | INFO    | TONG KET: Tong 3 | THÀNH CÔNG: 3 | THẤT BẠI: 0
+2026-10-21 16:49:15 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-21 16:52:50 | INFO    | Da doc 3 lien he tu contacts_test.csv
+2026-10-21 16:52:50 | INFO    | ==============================================================================
+2026-10-21 16:52:50 | INFO    |                  CHE DO 3: XEM THU (DRY-RUN, KHONG GUI THAT)                  
+2026-10-21 16:52:50 | INFO    | ==============================================================================
+2026-10-21 16:52:50 | INFO    | Nguoi gui     : demo.sender@gmail.com
+2026-10-21 16:52:50 | INFO    | So nguoi nhan : 3
+2026-10-21 16:52:50 | INFO    | Dinh kem      : (khong)
+2026-10-21 16:52:50 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 16:52:50 | SUCCESS | [1/3] gmpty210905+tv1@gmail.com | Nguyễn Phúc Khánh Ngọc | Trưởng nhóm (TV1) | Trang thai: THÀNH CÔNG (xem thu -> 01_gmpty210905_tv1@gmail.com.eml)
+2026-10-21 16:52:50 | SUCCESS | [2/3] gmpty210905+tv2@gmail.com | Lê Thành Tài | Thành viên 2 | Trang thai: THÀNH CÔNG (xem thu -> 02_gmpty210905_tv2@gmail.com.eml)
+2026-10-21 16:52:50 | SUCCESS | [3/3] gmpty210905+tv7@gmail.com | Đỗ Gia Mẫn | Thành viên 7 | Trang thai: THÀNH CÔNG (xem thu -> 03_gmpty210905_tv7@gmail.com.eml)
+2026-10-21 16:52:50 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 16:52:50 | INFO    | TONG KET: Tong 3 | THÀNH CÔNG: 3 | THẤT BẠI: 0
+2026-10-21 16:52:50 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-21 16:52:50 | INFO    | File xem thu luu tai thu muc: email_preview
+2026-10-21 16:57:11 | INFO    | Da doc 3 lien he tu contacts_test.csv
+2026-10-21 16:57:11 | INFO    | ==============================================================================
+2026-10-21 16:57:11 | INFO    |                  CHE DO 3: XEM THU (DRY-RUN, KHONG GUI THAT)                  
+2026-10-21 16:57:11 | INFO    | ==============================================================================
+2026-10-21 16:57:11 | INFO    | Nguoi gui     : demo.sender@gmail.com
+2026-10-21 16:57:11 | INFO    | So nguoi nhan : 3
+2026-10-21 16:57:11 | INFO    | Dinh kem      : (khong)
+2026-10-21 16:57:11 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 16:57:11 | SUCCESS | [1/3] gmpty210905+tv1@gmail.com | Nguyễn Phúc Khánh Ngọc | Trưởng nhóm (TV1) | Trang thai: THÀNH CÔNG (xem thu -> 01_gmpty210905_tv1@gmail.com.eml)
+2026-10-21 16:57:11 | SUCCESS | [2/3] gmpty210905+tv2@gmail.com | Lê Thành Tài | Thành viên 2 | Trang thai: THÀNH CÔNG (xem thu -> 02_gmpty210905_tv2@gmail.com.eml)
+2026-10-21 16:57:11 | SUCCESS | [3/3] gmpty210905+tv7@gmail.com | Đỗ Gia Mẫn | Thành viên 7 | Trang thai: THÀNH CÔNG (xem thu -> 03_gmpty210905_tv7@gmail.com.eml)
+2026-10-21 16:57:11 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 16:57:11 | INFO    | TONG KET: Tong 3 | THÀNH CÔNG: 3 | THẤT BẠI: 0
+2026-10-21 16:57:11 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-21 16:57:11 | INFO    | File xem thu luu tai thu muc: email_preview
+2026-10-21 16:58:25 | INFO    | Da doc 3 lien he tu contacts_test.csv
+2026-10-21 16:58:29 | INFO    | ==============================================================================
+2026-10-21 16:58:29 | INFO    |                   CHE DO 2: GUI HANG LOAT NANG CAO (Muc 4.3)                  
+2026-10-21 16:58:29 | INFO    | ==============================================================================
+2026-10-21 16:58:29 | INFO    | Nguoi gui     : giamando09@gmail.com
+2026-10-21 16:58:29 | INFO    | So nguoi nhan : 3
+2026-10-21 16:58:29 | INFO    | Dinh kem      : Tom_Tat_Du_An_An_Ninh_Mang.pdf
+2026-10-21 16:58:29 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 16:58:34 | SUCCESS | [1/3] gmpty210905+tv1@gmail.com | Nguyễn Phúc Khánh Ngọc | Trưởng nhóm (TV1) | Trang thai: THÀNH CÔNG
+2026-10-21 16:58:38 | SUCCESS | [2/3] gmpty210905+tv2@gmail.com | Lê Thành Tài | Thành viên 2 | Trang thai: THÀNH CÔNG
+2026-10-21 16:58:42 | SUCCESS | [3/3] gmpty210905+tv7@gmail.com | Đỗ Gia Mẫn | Thành viên 7 | Trang thai: THÀNH CÔNG
+2026-10-21 16:58:42 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 16:58:42 | INFO    | TONG KET: Tong 3 | THÀNH CÔNG: 3 | THẤT BẠI: 0
+2026-10-21 16:58:42 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-21 17:16:53 | INFO    | Da doc 3 lien he tu contacts_test.csv
+2026-10-21 17:16:53 | INFO    | ==============================================================================
+2026-10-21 17:16:53 | INFO    |                  CHE DO 3: XEM THU (DRY-RUN, KHONG GUI THAT)                  
+2026-10-21 17:16:53 | INFO    | ==============================================================================
+2026-10-21 17:16:53 | INFO    | Nguoi gui     : demo.sender@gmail.com
+2026-10-21 17:16:53 | INFO    | So nguoi nhan : 3
+2026-10-21 17:16:53 | INFO    | Dinh kem      : (khong)
+2026-10-21 17:16:53 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 17:16:53 | SUCCESS | [1/3] gmpty210905+tv1@gmail.com | Nguyễn Phúc Khánh Ngọc | Trưởng nhóm (TV1) | Trang thai: THÀNH CÔNG (xem thu -> 01_gmpty210905_tv1@gmail.com.eml)
+2026-10-21 17:16:53 | SUCCESS | [2/3] gmpty210905+tv2@gmail.com | Lê Thành Tài | Thành viên 2 | Trang thai: THÀNH CÔNG (xem thu -> 02_gmpty210905_tv2@gmail.com.eml)
+2026-10-21 17:16:53 | SUCCESS | [3/3] gmpty210905+tv7@gmail.com | Đỗ Gia Mẫn | Thành viên 7 | Trang thai: THÀNH CÔNG (xem thu -> 03_gmpty210905_tv7@gmail.com.eml)
+2026-10-21 17:16:53 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 17:16:53 | INFO    | TONG KET: Tong 3 | THÀNH CÔNG: 3 | THẤT BẠI: 0
+2026-10-21 17:16:53 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-21 17:16:53 | INFO    | File xem thu luu tai thu muc: email_preview
+2026-10-21 17:17:40 | INFO    | Da doc 3 lien he tu contacts_test.csv
+2026-10-21 17:17:40 | INFO    | ==============================================================================
+2026-10-21 17:17:40 | INFO    |                  CHE DO 3: XEM THU (DRY-RUN, KHONG GUI THAT)                  
+2026-10-21 17:17:40 | INFO    | ==============================================================================
+2026-10-21 17:17:40 | INFO    | Nguoi gui     : demo.sender@gmail.com
+2026-10-21 17:17:40 | INFO    | So nguoi nhan : 3
+2026-10-21 17:17:40 | INFO    | Dinh kem      : (khong)
+2026-10-21 17:17:40 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 17:17:40 | SUCCESS | [1/3] gmpty210905+tv1@gmail.com | Nguyễn Phúc Khánh Ngọc | Trưởng nhóm (TV1) | Trang thai: THÀNH CÔNG (xem thu -> 01_gmpty210905_tv1@gmail.com.eml)
+2026-10-21 17:17:40 | SUCCESS | [2/3] gmpty210905+tv2@gmail.com | Lê Thành Tài | Thành viên 2 | Trang thai: THÀNH CÔNG (xem thu -> 02_gmpty210905_tv2@gmail.com.eml)
+2026-10-21 17:17:40 | SUCCESS | [3/3] gmpty210905+tv7@gmail.com | Đỗ Gia Mẫn | Thành viên 7 | Trang thai: THÀNH CÔNG (xem thu -> 03_gmpty210905_tv7@gmail.com.eml)
+2026-10-21 17:17:40 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 17:17:40 | INFO    | TONG KET: Tong 3 | THÀNH CÔNG: 3 | THẤT BẠI: 0
+2026-10-21 17:17:40 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-21 17:17:40 | INFO    | File xem thu luu tai thu muc: email_preview
+2026-10-21 17:19:27 | INFO    | Da doc 3 lien he tu contacts_test.csv
+2026-10-21 17:19:31 | INFO    | ==============================================================================
+2026-10-21 17:19:31 | INFO    |                   CHE DO 2: GUI HANG LOAT NANG CAO (Muc 4.3)                  
+2026-10-21 17:19:31 | INFO    | ==============================================================================
+2026-10-21 17:19:31 | INFO    | Nguoi gui     : giamando09@gmail.com
+2026-10-21 17:19:31 | INFO    | So nguoi nhan : 3
+2026-10-21 17:19:31 | INFO    | Dinh kem      : Tom_Tat_Du_An_An_Ninh_Mang.pdf
+2026-10-21 17:19:31 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 17:19:37 | SUCCESS | [1/3] gmpty210905+tv1@gmail.com | Nguyễn Phúc Khánh Ngọc | Trưởng nhóm (TV1) | Trang thai: THÀNH CÔNG
+2026-10-21 17:19:42 | SUCCESS | [2/3] gmpty210905+tv2@gmail.com | Lê Thành Tài | Thành viên 2 | Trang thai: THÀNH CÔNG
+2026-10-21 17:19:46 | SUCCESS | [3/3] gmpty210905+tv7@gmail.com | Đỗ Gia Mẫn | Thành viên 7 | Trang thai: THÀNH CÔNG
+2026-10-21 17:19:47 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 17:19:47 | INFO    | TONG KET: Tong 3 | THÀNH CÔNG: 3 | THẤT BẠI: 0
+2026-10-21 17:19:47 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-21 17:25:56 | INFO    | Da doc 3 lien he tu contacts_test.csv
+2026-10-21 17:25:56 | INFO    | ==============================================================================
+2026-10-21 17:25:56 | INFO    |                  CHE DO 3: XEM THU (DRY-RUN, KHONG GUI THAT)                  
+2026-10-21 17:25:56 | INFO    | ==============================================================================
+2026-10-21 17:25:56 | INFO    | Nguoi gui     : demo.sender@gmail.com
+2026-10-21 17:25:56 | INFO    | So nguoi nhan : 3
+2026-10-21 17:25:56 | INFO    | Dinh kem      : (khong)
+2026-10-21 17:25:56 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 17:25:56 | SUCCESS | [1/3] gmpty210905+tv1@gmail.com | Nguyễn Phúc Khánh Ngọc | Trưởng nhóm (TV1) | Trang thai: THÀNH CÔNG (xem thu -> 01_gmpty210905_tv1@gmail.com.eml)
+2026-10-21 17:25:56 | SUCCESS | [2/3] gmpty210905+tv2@gmail.com | Lê Thành Tài | Thành viên 2 | Trang thai: THÀNH CÔNG (xem thu -> 02_gmpty210905_tv2@gmail.com.eml)
+2026-10-21 17:25:56 | SUCCESS | [3/3] gmpty210905+tv7@gmail.com | Đỗ Gia Mẫn | Thành viên 7 | Trang thai: THÀNH CÔNG (xem thu -> 03_gmpty210905_tv7@gmail.com.eml)
+2026-10-21 17:25:56 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 17:25:56 | INFO    | TONG KET: Tong 3 | THÀNH CÔNG: 3 | THẤT BẠI: 0
+2026-10-21 17:25:56 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-21 17:25:56 | INFO    | File xem thu luu tai thu muc: email_preview
+2026-10-21 17:25:56 | INFO    | Da doc 3 lien he tu contacts_test.csv
+2026-10-21 17:25:56 | INFO    | ==============================================================================
+2026-10-21 17:25:56 | INFO    |                  CHE DO 3: XEM THU (DRY-RUN, KHONG GUI THAT)                  
+2026-10-21 17:25:56 | INFO    | ==============================================================================
+2026-10-21 17:25:56 | INFO    | Nguoi gui     : demo.sender@gmail.com
+2026-10-21 17:25:56 | INFO    | So nguoi nhan : 3
+2026-10-21 17:25:56 | INFO    | Dinh kem      : (khong)
+2026-10-21 17:25:56 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 17:25:56 | SUCCESS | [1/3] gmpty210905+tv1@gmail.com | Nguyễn Phúc Khánh Ngọc | Trưởng nhóm (TV1) | Trang thai: THÀNH CÔNG (xem thu -> 01_gmpty210905_tv1@gmail.com.eml)
+2026-10-21 17:25:56 | SUCCESS | [2/3] gmpty210905+tv2@gmail.com | Lê Thành Tài | Thành viên 2 | Trang thai: THÀNH CÔNG (xem thu -> 02_gmpty210905_tv2@gmail.com.eml)
+2026-10-21 17:25:56 | SUCCESS | [3/3] gmpty210905+tv7@gmail.com | Đỗ Gia Mẫn | Thành viên 7 | Trang thai: THÀNH CÔNG (xem thu -> 03_gmpty210905_tv7@gmail.com.eml)
+2026-10-21 17:25:56 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 17:25:56 | INFO    | TONG KET: Tong 3 | THÀNH CÔNG: 3 | THẤT BẠI: 0
+2026-10-21 17:25:56 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-21 17:25:56 | INFO    | File xem thu luu tai thu muc: email_preview
+2026-10-21 17:41:34 | WARNING | Bo qua dong 4 trong contacts_loi_test.csv: email khong hop le ('khong-phai-email')
+2026-10-21 17:41:34 | INFO    | Da doc 2 lien he tu contacts_loi_test.csv
+2026-10-21 17:41:34 | INFO    | ==============================================================================
+2026-10-21 17:41:34 | INFO    |                  CHE DO 3: XEM THU (DRY-RUN, KHONG GUI THAT)                  
+2026-10-21 17:41:34 | INFO    | ==============================================================================
+2026-10-21 17:41:34 | INFO    | Nguoi gui     : demo.sender@gmail.com
+2026-10-21 17:41:34 | INFO    | So nguoi nhan : 2
+2026-10-21 17:41:34 | INFO    | Dinh kem      : (khong)
+2026-10-21 17:41:34 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 17:41:34 | SUCCESS | [1/2] gmpty210905+loitest@gmail.com | Đỗ Gia Mẫn | Thành viên 7 | Trang thai: THÀNH CÔNG (xem thu -> 01_gmpty210905_loitest@gmail.com.eml)
+2026-10-21 17:41:34 | ERROR   | [2/2] sai..dinhdang@gmail.com | Người Nhận Sai | Thành viên kiểm thử | Trang thai: THẤT BẠI | Nguyen nhan: InvalidHeaderDefect: local-part is not dot-atom, quoted-string, or obs-local-part
+2026-10-21 17:41:34 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 17:41:34 | INFO    | TONG KET: Tong 2 | THÀNH CÔNG: 1 | THẤT BẠI: 1
+2026-10-21 17:41:34 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-21 17:41:34 | INFO    | File xem thu luu tai thu muc: email_preview
+2026-10-21 17:41:34 | ERROR   | Khong tim thay file danh sach lien he: khong_co.csv
+2026-10-21 17:41:55 | WARNING | Bo qua dong 4 trong contacts_loi_test.csv: email khong hop le ('khong-phai-email')
+2026-10-21 17:41:55 | INFO    | Da doc 2 lien he tu contacts_loi_test.csv
+2026-10-21 17:41:55 | INFO    | ==============================================================================
+2026-10-21 17:41:55 | INFO    |                  CHE DO 3: XEM THU (DRY-RUN, KHONG GUI THAT)                  
+2026-10-21 17:41:55 | INFO    | ==============================================================================
+2026-10-21 17:41:55 | INFO    | Nguoi gui     : demo.sender@gmail.com
+2026-10-21 17:41:55 | INFO    | So nguoi nhan : 2
+2026-10-21 17:41:55 | INFO    | Dinh kem      : (khong)
+2026-10-21 17:41:55 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 17:41:55 | SUCCESS | [1/2] gmpty210905+loitest@gmail.com | Đỗ Gia Mẫn | Thành viên 7 | Trang thai: THÀNH CÔNG (xem thu -> 01_gmpty210905_loitest@gmail.com.eml)
+2026-10-21 17:41:55 | ERROR   | [2/2] sai..dinhdang@gmail.com | Người Nhận Sai | Thành viên kiểm thử | Trang thai: THẤT BẠI | Nguyen nhan: Dia chi email sai cu phap (vi du hai dau cham lien nhau) - khong tao duoc thu
+2026-10-21 17:41:55 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 17:41:55 | INFO    | TONG KET: Tong 2 | THÀNH CÔNG: 1 | THẤT BẠI: 1
+2026-10-21 17:41:55 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-21 17:41:55 | INFO    | File xem thu luu tai thu muc: email_preview
+2026-10-21 17:41:55 | INFO    | ==============================================================================
+2026-10-21 17:41:55 | INFO    |                      CHE DO 1: GUI EMAIL CO BAN (Muc 4.2)                     
+2026-10-21 17:41:55 | INFO    | ==============================================================================
+2026-10-21 17:41:55 | ERROR   | Loi cau hinh/du lieu: Thieu bien moi truong SENDER_EMAIL hoac SENDER_APP_PASSWORD. Hay thiet lap truoc khi chay (xem HUONG_DAN_TV7.md).
+2026-10-21 20:42:54 | INFO    | ==============================================================================
+2026-10-21 20:42:54 | INFO    |                      CHE DO 1: GUI EMAIL CO BAN (Muc 4.2)                     
+2026-10-21 20:42:54 | INFO    | ==============================================================================
+2026-10-21 20:42:54 | ERROR   | Loi cau hinh/du lieu: Thieu bien moi truong SENDER_EMAIL hoac SENDER_APP_PASSWORD. Hay thiet lap truoc khi chay (xem HUONG_DAN_TV7.md).
+2026-10-21 20:46:40 | ERROR   | Khong tim thay file danh sach lien he: khong_co.csv
+2026-10-21 20:50:00 | WARNING | Bo qua dong 4 trong contacts_loi_test.csv: email khong hop le ('khong-phai-email')
+2026-10-21 20:50:00 | INFO    | Da doc 2 lien he tu contacts_loi_test.csv
+2026-10-21 20:50:10 | INFO    | ==============================================================================
+2026-10-21 20:50:10 | INFO    |                   CHE DO 2: GUI HANG LOAT NANG CAO (Muc 4.3)                  
+2026-10-21 20:50:10 | INFO    | ==============================================================================
+2026-10-21 20:50:10 | INFO    | Nguoi gui     : giamando09@gmail.com
+2026-10-21 20:50:10 | INFO    | So nguoi nhan : 2
+2026-10-21 20:50:10 | INFO    | Dinh kem      : (khong)
+2026-10-21 20:50:10 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 20:50:15 | SUCCESS | [1/2] gmpty210905+loitest@gmail.com | Đỗ Gia Mẫn | Thành viên 7 | Trang thai: THÀNH CÔNG
+2026-10-21 20:50:16 | ERROR   | [2/2] sai..dinhdang@gmail.com | Người Nhận Sai | Thành viên kiểm thử | Trang thai: THẤT BẠI | Nguyen nhan: Dia chi email sai cu phap (vi du hai dau cham lien nhau) - khong tao duoc thu
+2026-10-21 20:50:16 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 20:50:16 | INFO    | TONG KET: Tong 2 | THÀNH CÔNG: 1 | THẤT BẠI: 1
+2026-10-21 20:50:16 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-21 20:53:13 | WARNING | Bo qua dong 4 trong contacts_loi_test.csv: email khong hop le ('khong-phai-email')
+2026-10-21 20:53:13 | INFO    | Da doc 2 lien he tu contacts_loi_test.csv
+2026-10-21 20:53:16 | INFO    | ==============================================================================
+2026-10-21 20:53:16 | INFO    |                   CHE DO 2: GUI HANG LOAT NANG CAO (Muc 4.3)                  
+2026-10-21 20:53:16 | INFO    | ==============================================================================
+2026-10-21 20:53:16 | INFO    | Nguoi gui     : giamando09@gmail.com
+2026-10-21 20:53:16 | INFO    | So nguoi nhan : 2
+2026-10-21 20:53:16 | INFO    | Dinh kem      : (khong)
+2026-10-21 20:53:16 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 20:53:19 | ERROR   | [1/2] gmpty210905+loitest@gmail.com | Đỗ Gia Mẫn | Thành viên 7 | Trang thai: THẤT BẠI | Nguyen nhan: May chu SMTP ngat ket noi dot ngot
+2026-10-21 20:53:20 | ERROR   | [2/2] sai..dinhdang@gmail.com | Người Nhận Sai | Thành viên kiểm thử | Trang thai: THẤT BẠI | Nguyen nhan: May chu SMTP ngat ket noi dot ngot
+2026-10-21 20:53:20 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 20:53:20 | INFO    | TONG KET: Tong 2 | THÀNH CÔNG: 0 | THẤT BẠI: 2
+2026-10-21 20:53:20 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-21 20:55:25 | INFO    | Da doc 7 lien he tu contacts.csv
+2026-10-21 20:55:25 | INFO    | ==============================================================================
+2026-10-21 20:55:25 | INFO    |                  CHE DO 3: XEM THU (DRY-RUN, KHONG GUI THAT)                  
+2026-10-21 20:55:25 | INFO    | ==============================================================================
+2026-10-21 20:55:25 | INFO    | Nguoi gui     : giamando09@gmail.com
+2026-10-21 20:55:25 | INFO    | So nguoi nhan : 7
+2026-10-21 20:55:25 | INFO    | Dinh kem      : (khong)
+2026-10-21 20:55:25 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 20:55:25 | SUCCESS | [1/7] khanhngoc.tv1@ueh.edu.vn | Nguyễn Phúc Khánh Ngọc | Trưởng nhóm (TV1) | Trang thai: THÀNH CÔNG (xem thu -> 01_khanhngoc.tv1@ueh.edu.vn.eml)
+2026-10-21 20:55:25 | SUCCESS | [2/7] thanhtai.tv2@ueh.edu.vn | Lê Thành Tài | Thành viên 2 | Trang thai: THÀNH CÔNG (xem thu -> 02_thanhtai.tv2@ueh.edu.vn.eml)
+2026-10-21 20:55:25 | SUCCESS | [3/7] thanhtuan.tv3@ueh.edu.vn | Nguyễn Thanh Tuấn | Thành viên 3 | Trang thai: THÀNH CÔNG (xem thu -> 03_thanhtuan.tv3@ueh.edu.vn.eml)
+2026-10-21 20:55:26 | SUCCESS | [4/7] thaonhu.tv4@ueh.edu.vn | Hoàng Ngọc Thảo Như | Thành viên 4 | Trang thai: THÀNH CÔNG (xem thu -> 04_thaonhu.tv4@ueh.edu.vn.eml)
+2026-10-21 20:55:26 | SUCCESS | [5/7] hoanglong.tv5@ueh.edu.vn | Thái Hoàng Long | Thành viên 5 | Trang thai: THÀNH CÔNG (xem thu -> 05_hoanglong.tv5@ueh.edu.vn.eml)
+2026-10-21 20:55:26 | SUCCESS | [6/7] boisan.tv6@ueh.edu.vn | Lâm Bội San | Thành viên 6 | Trang thai: THÀNH CÔNG (xem thu -> 06_boisan.tv6@ueh.edu.vn.eml)
+2026-10-21 20:55:26 | SUCCESS | [7/7] giaman.tv7@ueh.edu.vn | Đỗ Gia Mẫn | Thành viên 7 | Trang thai: THÀNH CÔNG (xem thu -> 07_giaman.tv7@ueh.edu.vn.eml)
+2026-10-21 20:55:26 | INFO    | ------------------------------------------------------------------------------
+2026-10-21 20:55:26 | INFO    | TONG KET: Tong 7 | THÀNH CÔNG: 7 | THẤT BẠI: 0
+2026-10-21 20:55:26 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-21 20:55:26 | INFO    | File xem thu luu tai thu muc: email_preview
+2026-10-22 07:57:31 | INFO    |                      CHE DO 1: GUI EMAIL CO BAN (Muc 4.2)                     
+2026-10-22 07:57:31 | ERROR   | Loi cau hinh/du lieu: Thieu bien moi truong SENDER_EMAIL hoac SENDER_APP_PASSWORD. Hay thiet lap truoc khi chay (xem HUONG_DAN_TV7.md).
+2026-10-22 08:00:21 | WARNING | Bo qua dong 4 trong contacts_loi_test.csv: email khong hop le ('khong-phai-email')
+2026-10-22 08:00:21 | INFO    | Da doc 2 lien he tu contacts_loi_test.csv
+2026-10-22 08:00:24 | INFO    |                   CHE DO 2: GUI HANG LOAT NANG CAO (Muc 4.3)                  
+2026-10-22 08:00:24 | ERROR   | Loi cau hinh: Thieu bien moi truong SENDER_EMAIL hoac SENDER_APP_PASSWORD. Hay thiet lap truoc khi chay (xem HUONG_DAN_TV7.md).
+2026-10-22 08:00:32 | WARNING | Bo qua dong 4 trong contacts_loi_test.csv: email khong hop le ('khong-phai-email')
+2026-10-22 08:00:32 | INFO    | Da doc 2 lien he tu contacts_loi_test.csv
+2026-10-22 08:00:33 | INFO    |                   CHE DO 2: GUI HANG LOAT NANG CAO (Muc 4.3)                  
+2026-10-22 08:00:33 | INFO    | Nguoi gui     : giamando09@gmail.com
+2026-10-22 08:00:33 | INFO    | So nguoi nhan : 2
+2026-10-22 08:00:33 | INFO    | Dinh kem      : (khong)
+2026-10-22 08:00:33 | INFO    | ------------------------------------------------------------------------------
+2026-10-22 08:00:38 | SUCCESS | [1/2] gmpty210905+loitest@gmail.com | Đỗ Gia Mẫn | Thành viên 7 | Trang thai: THÀNH CÔNG
+2026-10-22 08:00:39 | ERROR   | [2/2] sai..dinhdang@gmail.com | Người Nhận Sai | Thành viên kiểm thử | Trang thai: THẤT BẠI | Nguyen nhan: Dia chi email sai cu phap (vi du hai dau cham lien nhau) - khong tao duoc thu
+2026-10-22 08:00:40 | INFO    | ------------------------------------------------------------------------------
+2026-10-22 08:00:40 | INFO    | TONG KET: Tong 2 | THÀNH CÔNG: 1 | THẤT BẠI: 1
+2026-10-22 08:00:40 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-22 08:04:13 | WARNING | Bo qua dong 4 trong contacts_loi_test.csv: email khong hop le ('khong-phai-email')
+2026-10-22 08:04:13 | INFO    | Da doc 2 lien he tu contacts_loi_test.csv
+2026-10-22 08:04:15 | INFO    |                   CHE DO 2: GUI HANG LOAT NANG CAO (Muc 4.3)                  
+2026-10-22 08:04:15 | INFO    | Nguoi gui     : giamando09@gmail.com
+2026-10-22 08:04:15 | INFO    | So nguoi nhan : 2
+2026-10-22 08:04:15 | INFO    | Dinh kem      : (khong)
+2026-10-22 08:04:15 | INFO    | ------------------------------------------------------------------------------
+2026-10-22 08:04:18 | ERROR   | [1/2] gmpty210905+loitest@gmail.com | Đỗ Gia Mẫn | Thành viên 7 | Trang thai: THẤT BẠI | Nguyen nhan: May chu SMTP ngat ket noi dot ngot
+2026-10-22 08:04:19 | ERROR   | [2/2] sai..dinhdang@gmail.com | Người Nhận Sai | Thành viên kiểm thử | Trang thai: THẤT BẠI | Nguyen nhan: May chu SMTP ngat ket noi dot ngot
+2026-10-22 08:04:19 | INFO    | ------------------------------------------------------------------------------
+2026-10-22 08:04:19 | INFO    | TONG KET: Tong 2 | THÀNH CÔNG: 0 | THẤT BẠI: 2
+2026-10-22 08:04:19 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-22 08:05:08 | INFO    | Da doc 7 lien he tu contacts.csv
+2026-10-22 08:05:08 | INFO    |                  CHE DO 3: XEM THU (DRY-RUN, KHONG GUI THAT)                  
+2026-10-22 08:05:08 | INFO    | Nguoi gui     : giamando09@gmail.com
+2026-10-22 08:05:08 | INFO    | So nguoi nhan : 7
+2026-10-22 08:05:08 | INFO    | Dinh kem      : (khong)
+2026-10-22 08:05:08 | INFO    | ------------------------------------------------------------------------------
+2026-10-22 08:05:08 | SUCCESS | [1/7] khanhngoc.tv1@ueh.edu.vn | Nguyễn Phúc Khánh Ngọc | Trưởng nhóm (TV1) | Trang thai: THÀNH CÔNG (xem thu -> 01_khanhngoc.tv1@ueh.edu.vn.eml)
+2026-10-22 08:05:08 | SUCCESS | [2/7] thanhtai.tv2@ueh.edu.vn | Lê Thành Tài | Thành viên 2 | Trang thai: THÀNH CÔNG (xem thu -> 02_thanhtai.tv2@ueh.edu.vn.eml)
+2026-10-22 08:05:08 | SUCCESS | [3/7] thanhtuan.tv3@ueh.edu.vn | Nguyễn Thanh Tuấn | Thành viên 3 | Trang thai: THÀNH CÔNG (xem thu -> 03_thanhtuan.tv3@ueh.edu.vn.eml)
+2026-10-22 08:05:08 | SUCCESS | [4/7] thaonhu.tv4@ueh.edu.vn | Hoàng Ngọc Thảo Như | Thành viên 4 | Trang thai: THÀNH CÔNG (xem thu -> 04_thaonhu.tv4@ueh.edu.vn.eml)
+2026-10-22 08:05:08 | SUCCESS | [5/7] hoanglong.tv5@ueh.edu.vn | Thái Hoàng Long | Thành viên 5 | Trang thai: THÀNH CÔNG (xem thu -> 05_hoanglong.tv5@ueh.edu.vn.eml)
+2026-10-22 08:05:08 | SUCCESS | [6/7] boisan.tv6@ueh.edu.vn | Lâm Bội San | Thành viên 6 | Trang thai: THÀNH CÔNG (xem thu -> 06_boisan.tv6@ueh.edu.vn.eml)
+2026-10-22 08:05:08 | SUCCESS | [7/7] giaman.tv7@ueh.edu.vn | Đỗ Gia Mẫn | Thành viên 7 | Trang thai: THÀNH CÔNG (xem thu -> 07_giaman.tv7@ueh.edu.vn.eml)
+2026-10-22 08:05:08 | INFO    | ------------------------------------------------------------------------------
+2026-10-22 08:05:08 | INFO    | TONG KET: Tong 7 | THÀNH CÔNG: 7 | THẤT BẠI: 0
+2026-10-22 08:05:08 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-22 08:05:08 | INFO    | File xem thu luu tai thu muc: email_preview
+2026-10-22 08:11:52 | INFO    | Da doc 7 lien he tu contacts.csv
+2026-10-22 08:12:01 | INFO    |                   CHE DO 2: GUI HANG LOAT NANG CAO (Muc 4.3)                  
+2026-10-22 08:12:01 | INFO    | Nguoi gui     : giamando09@gmail.com
+2026-10-22 08:12:01 | INFO    | So nguoi nhan : 7
+2026-10-22 08:12:01 | INFO    | Dinh kem      : (khong)
+2026-10-22 08:12:01 | INFO    | ------------------------------------------------------------------------------
+2026-10-22 08:12:07 | SUCCESS | [1/7] khanhngoc.tv1@ueh.edu.vn | Nguyễn Phúc Khánh Ngọc | Trưởng nhóm (TV1) | Trang thai: THÀNH CÔNG
+2026-10-22 08:12:10 | SUCCESS | [2/7] thanhtai.tv2@ueh.edu.vn | Lê Thành Tài | Thành viên 2 | Trang thai: THÀNH CÔNG
+2026-10-22 08:12:14 | SUCCESS | [3/7] thanhtuan.tv3@ueh.edu.vn | Nguyễn Thanh Tuấn | Thành viên 3 | Trang thai: THÀNH CÔNG
+2026-10-22 08:12:18 | SUCCESS | [4/7] thaonhu.tv4@ueh.edu.vn | Hoàng Ngọc Thảo Như | Thành viên 4 | Trang thai: THÀNH CÔNG
+2026-10-22 08:12:22 | SUCCESS | [5/7] hoanglong.tv5@ueh.edu.vn | Thái Hoàng Long | Thành viên 5 | Trang thai: THÀNH CÔNG
+2026-10-22 08:12:26 | SUCCESS | [6/7] boisan.tv6@ueh.edu.vn | Lâm Bội San | Thành viên 6 | Trang thai: THÀNH CÔNG
+2026-10-22 08:12:30 | SUCCESS | [7/7] giaman.tv7@ueh.edu.vn | Đỗ Gia Mẫn | Thành viên 7 | Trang thai: THÀNH CÔNG
+2026-10-22 08:12:30 | INFO    | ------------------------------------------------------------------------------
+2026-10-22 08:12:30 | INFO    | TONG KET: Tong 7 | THÀNH CÔNG: 7 | THẤT BẠI: 0
+2026-10-22 08:12:30 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-22 08:15:11 | INFO    | Da doc 3 lien he tu contacts_test.csv
+2026-10-22 08:15:13 | INFO    |                   CHE DO 2: GUI HANG LOAT NANG CAO (Muc 4.3)                  
+2026-10-22 08:15:13 | INFO    | Nguoi gui     : giamando09@gmail.com
+2026-10-22 08:15:13 | INFO    | So nguoi nhan : 3
+2026-10-22 08:15:13 | INFO    | Dinh kem      : (khong)
+2026-10-22 08:15:13 | INFO    | ------------------------------------------------------------------------------
+2026-10-22 08:15:19 | SUCCESS | [1/3] mando.31251021092+tv1@st.ueh.edu.vn | Nguyễn Phúc Khánh Ngọc | Trưởng nhóm (TV1) | Trang thai: THÀNH CÔNG
+2026-10-22 08:15:23 | SUCCESS | [2/3] gmpty210905+tv2@gmail.com | Lê Thành Tài | Thành viên 2 | Trang thai: THÀNH CÔNG
+2026-10-22 08:15:27 | SUCCESS | [3/3] gmpty210905+tv7@gmail.com | Đỗ Gia Mẫn | Thành viên 7 | Trang thai: THÀNH CÔNG
+2026-10-22 08:15:27 | INFO    | ------------------------------------------------------------------------------
+2026-10-22 08:15:27 | INFO    | TONG KET: Tong 3 | THÀNH CÔNG: 3 | THẤT BẠI: 0
+2026-10-22 08:15:27 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-23 07:25:23 | INFO    | Da tao file dinh kem mau Tom_Tat_Du_An_An_Ninh_Mang.pdf
+2026-10-23 07:25:23 | INFO    | Da doc 3 lien he tu contacts_test.csv
+2026-10-23 07:25:35 | INFO    | ==============================================================================
+2026-10-23 07:25:35 | INFO    |                       CHE DO 3: XEM THU (KHONG GUI THAT)                      
+2026-10-23 07:25:35 | INFO    | ==============================================================================
+2026-10-23 07:25:35 | INFO    | Nguoi gui     : demo.sender@gmail.com
+2026-10-23 07:25:35 | INFO    | So nguoi nhan : 3
+2026-10-23 07:25:35 | INFO    | Dinh kem      : Tom_Tat_Du_An_An_Ninh_Mang.pdf
+2026-10-23 07:25:35 | INFO    | ------------------------------------------------------------------------------
+2026-10-23 07:25:36 | SUCCESS | [1/3] mando.31251021092+tv1@st.ueh.edu.vn | Nguyễn Phúc Khánh Ngọc | Trưởng nhóm (TV1) | Trang thai: THÀNH CÔNG (xem thu -> 01_mando.31251021092_tv1@st.ueh.edu.vn.eml)
+2026-10-23 07:25:36 | SUCCESS | [2/3] gmpty210905+tv2@gmail.com | Lê Thành Tài | Thành viên 2 | Trang thai: THÀNH CÔNG (xem thu -> 02_gmpty210905_tv2@gmail.com.eml)
+2026-10-23 07:25:36 | SUCCESS | [3/3] gmpty210905+tv7@gmail.com | Đỗ Gia Mẫn | Thành viên 7 | Trang thai: THÀNH CÔNG (xem thu -> 03_gmpty210905_tv7@gmail.com.eml)
+2026-10-23 07:25:36 | INFO    | ------------------------------------------------------------------------------
+2026-10-23 07:25:36 | INFO    | TONG KET: Tong 3 | THÀNH CÔNG: 3 | THẤT BẠI: 0
+2026-10-23 07:25:36 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-23 07:25:36 | INFO    | File xem thu luu tai thu muc: email_preview
+2026-10-23 07:38:03 | INFO    | Da doc 3 lien he tu contacts_test.csv
+2026-10-23 07:38:03 | INFO    | ==============================================================================
+2026-10-23 07:38:03 | INFO    |                       CHE DO 3: XEM THU (KHONG GUI THAT)                      
+2026-10-23 07:38:03 | INFO    | ==============================================================================
+2026-10-23 07:38:03 | INFO    | Nguoi gui     : demo.sender@gmail.com
+2026-10-23 07:38:03 | INFO    | So nguoi nhan : 3
+2026-10-23 07:38:03 | INFO    | Dinh kem      : (khong)
+2026-10-23 07:38:03 | INFO    | ------------------------------------------------------------------------------
+2026-10-23 07:38:03 | SUCCESS | [1/3] mando.31251021092+tv1@st.ueh.edu.vn | Nguyễn Phúc Khánh Ngọc | Trưởng nhóm (TV1) | Trang thai: THÀNH CÔNG (xem thu -> 01_mando.31251021092_tv1@st.ueh.edu.vn.eml)
+2026-10-23 07:38:03 | SUCCESS | [2/3] gmpty210905+tv2@gmail.com | Lê Thành Tài | Thành viên 2 | Trang thai: THÀNH CÔNG (xem thu -> 02_gmpty210905_tv2@gmail.com.eml)
+2026-10-23 07:38:03 | SUCCESS | [3/3] gmpty210905+tv7@gmail.com | Đỗ Gia Mẫn | Thành viên 7 | Trang thai: THÀNH CÔNG (xem thu -> 03_gmpty210905_tv7@gmail.com.eml)
+2026-10-23 07:38:03 | INFO    | ------------------------------------------------------------------------------
+2026-10-23 07:38:03 | INFO    | TONG KET: Tong 3 | THÀNH CÔNG: 3 | THẤT BẠI: 0
+2026-10-23 07:38:03 | INFO    | Log chi tiet luu tai: email_status.log
+2026-10-23 07:38:03 | INFO    | File xem thu luu tai thu muc: email_preview
+2026-10-23 07:38:03 | ERROR   | Khong tim thay file danh sach lien he: khong_co.csv

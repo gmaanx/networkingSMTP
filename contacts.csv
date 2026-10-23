@@ -1,0 +1,8 @@
+name,email,role,custom_message
+Nguyễn Phúc Khánh Ngọc,khanhngoc.tv1@ueh.edu.vn,Trưởng nhóm (TV1),"Cảm ơn bạn đã điều phối nhóm và hoàn thiện nội dung phần 1–4 cùng lý thuyết mạng."
+Lê Thành Tài,thanhtai.tv2@ueh.edu.vn,Thành viên 2,"File mã nguồn HTML/CSS và danh sách contacts.csv đã được tạo hoàn chỉnh để tích hợp."
+Nguyễn Thanh Tuấn,thanhtuan.tv3@ueh.edu.vn,Thành viên 3,"Mời bạn kiểm tra mã nguồn web và chèn sơ đồ kiến trúc mạng đồ họa chất lượng cao vào website."
+Hoàng Ngọc Thảo Như,thaonhu.tv4@ueh.edu.vn,Thành viên 4,"Website khung đã sẵn sàng, mời bạn kết nối FileZilla và triển khai lên InfinityFree."
+Thái Hoàng Long,hoanglong.tv5@ueh.edu.vn,Thành viên 5,"Mời bạn tiến hành tạo Offer mô phỏng WebRTC P2P phía Peer A."
+Lâm Bội San,boisan.tv6@ueh.edu.vn,Thành viên 6,"Mời bạn chuẩn bị sẵn sàng phía Peer B để nhận Offer và tạo Answer kết nối WebRTC."
+Đỗ Gia Mẫn,giaman.tv7@ueh.edu.vn,Thành viên 7,"File contacts.csv đã chuẩn hóa, bạn có thể chạy script Python gửi email SMTP cá nhân hóa."
